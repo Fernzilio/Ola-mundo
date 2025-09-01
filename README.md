@@ -1,2 +1,4 @@
 # Ola mundo
-Primeiro repositorio do Cruso de Git e Git hub
+Primeiro repositório do Curso de Git e Git hub
+
+Repositório criado durante uma Aula não ao vivo 
